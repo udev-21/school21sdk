@@ -140,7 +140,7 @@ func getParticipants() {
 			participants[login] = 0
 			// fmt.Er(login)
 		}
-		time.Sleep(800 * time.Millisecond)
+		time.Sleep(1 * time.Second)
 	}
 }
 
@@ -151,7 +151,7 @@ func calculatePoints() {
 		points := getPeerPointofUser(login)
 		participants[login] = points
 
-		time.Sleep(800 * time.Millisecond)
+		time.Sleep(1 * time.Second)
 	}
 
 	// sort map by value
