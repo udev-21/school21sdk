@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-03 23:38:12
+### Updated at: 2024-07-04 00:08:11
 
 | № | Login | Points |
 |---|-------|--------|
@@ -14,9 +14,9 @@
 |8|casielis@student.21-school.ru|6|
 |9|pepperal@student.21-school.ru|6|
 |10|randolpz@student.21-school.ru|6|
-|11|mavericl@student.21-school.ru|6|
-|12|ricassol@student.21-school.ru|6|
-|13|hayheadt@student.21-school.ru|6|
+|11|hayheadt@student.21-school.ru|6|
+|12|mavericl@student.21-school.ru|6|
+|13|ricassol@student.21-school.ru|6|
 |14|tyraandr@student.21-school.ru|6|
 |15|iggymacl@student.21-school.ru|6|
 |16|ahrimeri@student.21-school.ru|6|
@@ -39,9 +39,9 @@
 |33|lorenuzu@student.21-school.ru|4|
 |34|donnettp@student.21-school.ru|4|
 |35|estelaka@student.21-school.ru|3|
-|36|illalong@student.21-school.ru|3|
-|37|skeevesp@student.21-school.ru|3|
-|38|toffeebl@student.21-school.ru|3|
+|36|toffeebl@student.21-school.ru|3|
+|37|illalong@student.21-school.ru|3|
+|38|skeevesp@student.21-school.ru|3|
 |39|barramuc@student.21-school.ru|3|
 |40|tymorgiu@student.21-school.ru|3|
 |41|snowbiro@student.21-school.ru|3|
@@ -56,19 +56,19 @@
 |50|wifedoge@student.21-school.ru|1|
 |51|vincenzg@student.21-school.ru|1|
 |52|demetrif@student.21-school.ru|1|
-|53|christib@student.21-school.ru|1|
-|54|kaylenak@student.21-school.ru|1|
+|53|kaylenak@student.21-school.ru|1|
+|54|christib@student.21-school.ru|1|
 |55|hobgoblm@student.21-school.ru|1|
-|56|turnerko@student.21-school.ru|0|
-|57|provemec@student.21-school.ru|0|
+|56|provemec@student.21-school.ru|0|
+|57|turnerko@student.21-school.ru|0|
 |58|kabutops@student.21-school.ru|0|
 |59|leobalda@student.21-school.ru|0|
 |60|sonyacar@student.21-school.ru|0|
 |61|daemonpr@student.21-school.ru|0|
 |62|adolphdo@student.21-school.ru|0|
-|63|hickscan@student.21-school.ru|0|
-|64|treasaba@student.21-school.ru|0|
+|63|treasaba@student.21-school.ru|0|
+|64|hickscan@student.21-school.ru|0|
 |65|marenvar@student.21-school.ru|0|
 |66|fighterf@student.21-school.ru|0|
-|67|halliemo@student.21-school.ru|0|
-|68|juggermy@student.21-school.ru|0|
+|67|juggermy@student.21-school.ru|0|
+|68|halliemo@student.21-school.ru|0|
