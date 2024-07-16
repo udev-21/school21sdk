@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-16 07:39:14
+### Updated at: 2024-07-16 08:09:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -25,25 +25,25 @@
 |19|beatricl@student.21-school.ru|5|
 |20|ricassol@student.21-school.ru|4|
 |21|pepperal@student.21-school.ru|4|
-|22|renaykur@student.21-school.ru|4|
-|23|estelaka@student.21-school.ru|4|
-|24|milagrkw@student.21-school.ru|4|
-|25|mummjacq@student.21-school.ru|4|
+|22|milagrkw@student.21-school.ru|4|
+|23|mummjacq@student.21-school.ru|4|
+|24|renaykur@student.21-school.ru|4|
+|25|estelaka@student.21-school.ru|4|
 |26|tyraandr@student.21-school.ru|4|
 |27|lockemin@student.21-school.ru|4|
 |28|antonare@student.21-school.ru|4|
 |29|twannama@student.21-school.ru|4|
 |30|felisafi@student.21-school.ru|4|
-|31|donnettp@student.21-school.ru|4|
-|32|hayheadt@student.21-school.ru|4|
+|31|hayheadt@student.21-school.ru|4|
+|32|donnettp@student.21-school.ru|4|
 |33|kaseybea@student.21-school.ru|3|
 |34|casielis@student.21-school.ru|3|
 |35|ahrimeri@student.21-school.ru|3|
 |36|lannybon@student.21-school.ru|3|
 |37|hobgoblm@student.21-school.ru|3|
-|38|yaniraka@student.21-school.ru|3|
-|39|illalong@student.21-school.ru|3|
-|40|kabutops@student.21-school.ru|3|
+|38|kabutops@student.21-school.ru|3|
+|39|yaniraka@student.21-school.ru|3|
+|40|illalong@student.21-school.ru|3|
 |41|cheesecm@student.21-school.ru|2|
 |42|wowbagel@student.21-school.ru|2|
 |43|fighterf@student.21-school.ru|2|
@@ -58,18 +58,18 @@
 |52|kaylenak@student.21-school.ru|1|
 |53|juggermy@student.21-school.ru|0|
 |54|lorenuzu@student.21-school.ru|0|
-|55|daemonpr@student.21-school.ru|0|
-|56|adolphdo@student.21-school.ru|0|
+|55|adolphdo@student.21-school.ru|0|
+|56|daemonpr@student.21-school.ru|0|
 |57|leobalda@student.21-school.ru|0|
-|58|hickscan@student.21-school.ru|0|
-|59|tymorgiu@student.21-school.ru|0|
+|58|tymorgiu@student.21-school.ru|0|
+|59|hickscan@student.21-school.ru|0|
 |60|provemec@student.21-school.ru|0|
 |61|sonyacar@student.21-school.ru|0|
-|62|daisymal@student.21-school.ru|0|
-|63|turnerko@student.21-school.ru|0|
+|62|turnerko@student.21-school.ru|0|
+|63|daisymal@student.21-school.ru|0|
 |64|treasaba@student.21-school.ru|0|
 |65|halliemo@student.21-school.ru|0|
 |66|marenvar@student.21-school.ru|0|
-|67|christib@student.21-school.ru|0|
-|68|vincenzg@student.21-school.ru|0|
+|67|vincenzg@student.21-school.ru|0|
+|68|christib@student.21-school.ru|0|
 |
