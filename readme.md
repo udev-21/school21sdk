@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-16 14:39:35
+### Updated at: 2024-07-16 15:09:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -41,9 +41,9 @@
 |35|ahrimeri@student.21-school.ru|3|
 |36|lannybon@student.21-school.ru|3|
 |37|hobgoblm@student.21-school.ru|3|
-|38|kabutops@student.21-school.ru|3|
-|39|yaniraka@student.21-school.ru|3|
-|40|illalong@student.21-school.ru|3|
+|38|yaniraka@student.21-school.ru|3|
+|39|illalong@student.21-school.ru|3|
+|40|kabutops@student.21-school.ru|3|
 |41|cheesecm@student.21-school.ru|2|
 |42|wowbagel@student.21-school.ru|2|
 |43|fighterf@student.21-school.ru|2|
