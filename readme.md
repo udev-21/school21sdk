@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-18 03:09:13
+### Updated at: 2024-07-18 03:39:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -27,9 +27,9 @@
 |21|twannama@student.21-school.ru|4|
 |22|lannybon@student.21-school.ru|4|
 |23|felisafi@student.21-school.ru|4|
-|24|donnettp@student.21-school.ru|4|
-|25|hayheadt@student.21-school.ru|4|
-|26|kabutops@student.21-school.ru|4|
+|24|kabutops@student.21-school.ru|4|
+|25|donnettp@student.21-school.ru|4|
+|26|hayheadt@student.21-school.ru|4|
 |27|ricassol@student.21-school.ru|4|
 |28|pepperal@student.21-school.ru|4|
 |29|renaykur@student.21-school.ru|4|
