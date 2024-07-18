@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-18 08:09:13
+### Updated at: 2024-07-18 08:39:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -30,10 +30,10 @@
 |24|donnettp@student.21-school.ru|4|
 |25|ricassol@student.21-school.ru|4|
 |26|pepperal@student.21-school.ru|4|
-|27|estelaka@student.21-school.ru|4|
-|28|milagrkw@student.21-school.ru|4|
-|29|mummjacq@student.21-school.ru|4|
-|30|renaykur@student.21-school.ru|4|
+|27|renaykur@student.21-school.ru|4|
+|28|estelaka@student.21-school.ru|4|
+|29|milagrkw@student.21-school.ru|4|
+|30|mummjacq@student.21-school.ru|4|
 |31|tyraandr@student.21-school.ru|4|
 |32|lockemin@student.21-school.ru|4|
 |33|antonare@student.21-school.ru|4|
@@ -53,21 +53,21 @@
 |47|christib@student.21-school.ru|1|
 |48|voicerol@student.21-school.ru|1|
 |49|demetrif@student.21-school.ru|1|
-|50|ericaalp@student.21-school.ru|1|
-|51|unmentia@student.21-school.ru|1|
+|50|unmentia@student.21-school.ru|1|
+|51|ericaalp@student.21-school.ru|1|
 |52|yonnrose@student.21-school.ru|1|
 |53|sonyacar@student.21-school.ru|0|
 |54|daisymal@student.21-school.ru|0|
 |55|turnerko@student.21-school.ru|0|
-|56|halliemo@student.21-school.ru|0|
-|57|treasaba@student.21-school.ru|0|
+|56|treasaba@student.21-school.ru|0|
+|57|halliemo@student.21-school.ru|0|
 |58|illalong@student.21-school.ru|0|
 |59|toffeebl@student.21-school.ru|0|
 |60|vincenzg@student.21-school.ru|0|
 |61|juggermy@student.21-school.ru|0|
 |62|lorenuzu@student.21-school.ru|0|
-|63|adolphdo@student.21-school.ru|0|
-|64|daemonpr@student.21-school.ru|0|
+|63|daemonpr@student.21-school.ru|0|
+|64|adolphdo@student.21-school.ru|0|
 |65|leobalda@student.21-school.ru|0|
 |66|tymorgiu@student.21-school.ru|0|
 |67|hickscan@student.21-school.ru|0|
