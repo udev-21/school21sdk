@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-19 20:09:15
+### Updated at: 2024-07-19 20:39:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -40,8 +40,8 @@
 |34|wifedoge@student.21-school.ru|5|
 |35|tysanegr@student.21-school.ru|5|
 |36|felisafi@student.21-school.ru|4|
-|37|yaniraka@student.21-school.ru|4|
-|38|puckcher@student.21-school.ru|4|
+|37|puckcher@student.21-school.ru|4|
+|38|yaniraka@student.21-school.ru|4|
 |39|estelaka@student.21-school.ru|4|
 |40|tyraandr@student.21-school.ru|4|
 |41|antonare@student.21-school.ru|4|
@@ -51,16 +51,16 @@
 |45|voicerol@student.21-school.ru|3|
 |46|unmentia@student.21-school.ru|3|
 |47|daemonpr@student.21-school.ru|3|
-|48|casielis@student.21-school.ru|3|
+|48|iggymacl@student.21-school.ru|3|
 |49|galiokam@student.21-school.ru|3|
-|50|daisymal@student.21-school.ru|2|
-|51|vincenzg@student.21-school.ru|2|
-|52|cheesecm@student.21-school.ru|2|
-|53|demetrif@student.21-school.ru|2|
-|54|wowbagel@student.21-school.ru|2|
-|55|yonnrose@student.21-school.ru|2|
-|56|fighterf@student.21-school.ru|2|
-|57|iggymacl@student.21-school.ru|2|
+|50|casielis@student.21-school.ru|3|
+|51|daisymal@student.21-school.ru|2|
+|52|vincenzg@student.21-school.ru|2|
+|53|cheesecm@student.21-school.ru|2|
+|54|demetrif@student.21-school.ru|2|
+|55|wowbagel@student.21-school.ru|2|
+|56|yonnrose@student.21-school.ru|2|
+|57|fighterf@student.21-school.ru|2|
 |58|ericaalp@student.21-school.ru|1|
 |59|treasaba@student.21-school.ru|0|
 |60|halliemo@student.21-school.ru|0|
@@ -68,8 +68,8 @@
 |62|juggermy@student.21-school.ru|0|
 |63|adolphdo@student.21-school.ru|0|
 |64|leobalda@student.21-school.ru|0|
-|65|hickscan@student.21-school.ru|0|
-|66|tymorgiu@student.21-school.ru|0|
+|65|tymorgiu@student.21-school.ru|0|
+|66|hickscan@student.21-school.ru|0|
 |67|provemec@student.21-school.ru|0|
 |68|sonyacar@student.21-school.ru|0|
 
