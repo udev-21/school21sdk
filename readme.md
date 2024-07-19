@@ -1,20 +1,20 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-19 04:39:14
+### Updated at: 2024-07-19 05:09:13
 
 | № | Login | Points |
 |---|-------|--------|
 |1|trinitym@student.21-school.ru|13|
-|2|randolpz@student.21-school.ru|11|
-|3|lilliank@student.21-school.ru|11|
-|4|pepperal@student.21-school.ru|10|
-|5|marenvar@student.21-school.ru|9|
-|6|toffeebl@student.21-school.ru|9|
-|7|kokoschl@student.21-school.ru|9|
-|8|kaseybea@student.21-school.ru|9|
-|9|chrystac@student.21-school.ru|8|
-|10|donnettp@student.21-school.ru|8|
-|11|hypnosha@student.21-school.ru|8|
+|2|lilliank@student.21-school.ru|11|
+|3|pepperal@student.21-school.ru|10|
+|4|marenvar@student.21-school.ru|9|
+|5|toffeebl@student.21-school.ru|9|
+|6|kokoschl@student.21-school.ru|9|
+|7|kaseybea@student.21-school.ru|9|
+|8|chrystac@student.21-school.ru|8|
+|9|donnettp@student.21-school.ru|8|
+|10|hypnosha@student.21-school.ru|8|
+|11|randolpz@student.21-school.ru|8|
 |12|mummjacq@student.21-school.ru|8|
 |13|ponosheb@student.21-school.ru|8|
 |14|lannybon@student.21-school.ru|7|
@@ -42,8 +42,8 @@
 |36|iggymacl@student.21-school.ru|5|
 |37|twannama@student.21-school.ru|5|
 |38|felisafi@student.21-school.ru|4|
-|39|yaniraka@student.21-school.ru|4|
-|40|puckcher@student.21-school.ru|4|
+|39|puckcher@student.21-school.ru|4|
+|40|yaniraka@student.21-school.ru|4|
 |41|estelaka@student.21-school.ru|4|
 |42|tyraandr@student.21-school.ru|4|
 |43|antonare@student.21-school.ru|4|
@@ -69,7 +69,8 @@
 |63|juggermy@student.21-school.ru|0|
 |64|adolphdo@student.21-school.ru|0|
 |65|leobalda@student.21-school.ru|0|
-|66|hickscan@student.21-school.ru|0|
-|67|tymorgiu@student.21-school.ru|0|
+|66|tymorgiu@student.21-school.ru|0|
+|67|hickscan@student.21-school.ru|0|
 |68|provemec@student.21-school.ru|0|
+
 
