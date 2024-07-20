@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-21 03:39:14
+### Updated at: 2024-07-21 04:09:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -14,25 +14,25 @@
 |8|kokoschl@student.21-school.ru|9|
 |9|kaseybea@student.21-school.ru|9|
 |10|sonyacar@student.21-school.ru|8|
-|11|chrystac@student.21-school.ru|8|
-|12|lannybon@student.21-school.ru|8|
+|11|lannybon@student.21-school.ru|8|
+|12|chrystac@student.21-school.ru|8|
 |13|beatricl@student.21-school.ru|8|
 |14|randolpz@student.21-school.ru|8|
 |15|mummjacq@student.21-school.ru|8|
-|16|zaryasam@student.21-school.ru|7|
-|17|hobgoblm@student.21-school.ru|7|
+|16|hobgoblm@student.21-school.ru|7|
+|17|zaryasam@student.21-school.ru|7|
 |18|kabutops@student.21-school.ru|7|
 |19|ilynpois@student.21-school.ru|7|
 |20|snowbiro@student.21-school.ru|7|
 |21|seanamab@student.21-school.ru|7|
 |22|skeevesp@student.21-school.ru|7|
 |23|twannama@student.21-school.ru|6|
-|24|marenvar@student.21-school.ru|6|
-|25|hayheadt@student.21-school.ru|6|
-|26|yaniraka@student.21-school.ru|6|
+|24|yaniraka@student.21-school.ru|6|
+|25|marenvar@student.21-school.ru|6|
+|26|hayheadt@student.21-school.ru|6|
 |27|mavericl@student.21-school.ru|6|
-|28|tysanegr@student.21-school.ru|5|
-|29|casielis@student.21-school.ru|5|
+|28|casielis@student.21-school.ru|5|
+|29|tysanegr@student.21-school.ru|5|
 |30|turnerko@student.21-school.ru|5|
 |31|barramuc@student.21-school.ru|5|
 |32|puckcher@student.21-school.ru|5|
@@ -58,9 +58,9 @@
 |52|cheesecm@student.21-school.ru|2|
 |53|wowbagel@student.21-school.ru|2|
 |54|kaylenak@student.21-school.ru|1|
-|55|iggymacl@student.21-school.ru|0|
-|56|tymorgiu@student.21-school.ru|0|
-|57|hickscan@student.21-school.ru|0|
+|55|hickscan@student.21-school.ru|0|
+|56|iggymacl@student.21-school.ru|0|
+|57|tymorgiu@student.21-school.ru|0|
 |58|provemec@student.21-school.ru|0|
 |59|ahrimeri@student.21-school.ru|0|
 |60|daisymal@student.21-school.ru|0|
@@ -69,8 +69,8 @@
 |63|illalong@student.21-school.ru|0|
 |64|juggermy@student.21-school.ru|0|
 |65|demetrif@student.21-school.ru|0|
-|66|adolphdo@student.21-school.ru|0|
-|67|daemonpr@student.21-school.ru|0|
+|66|daemonpr@student.21-school.ru|0|
+|67|adolphdo@student.21-school.ru|0|
 |68|leobalda@student.21-school.ru|0|
 
 
