@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-20 04:39:13
+### Updated at: 2024-07-20 05:09:13
 
 | № | Login | Points |
 |---|-------|--------|
@@ -12,11 +12,11 @@
 |6|toffeebl@student.21-school.ru|9|
 |7|hypnosha@student.21-school.ru|9|
 |8|renaykur@student.21-school.ru|9|
-|9|lannybon@student.21-school.ru|8|
-|10|chrystac@student.21-school.ru|8|
+|9|chrystac@student.21-school.ru|8|
+|10|lannybon@student.21-school.ru|8|
 |11|beatricl@student.21-school.ru|8|
-|12|randolpz@student.21-school.ru|8|
-|13|ricassol@student.21-school.ru|8|
+|12|ricassol@student.21-school.ru|8|
+|13|randolpz@student.21-school.ru|8|
 |14|mummjacq@student.21-school.ru|8|
 |15|ponosheb@student.21-school.ru|8|
 |16|seanamab@student.21-school.ru|7|
@@ -30,8 +30,8 @@
 |24|milagrkw@student.21-school.ru|7|
 |25|lockemin@student.21-school.ru|6|
 |26|twannama@student.21-school.ru|6|
-|27|marenvar@student.21-school.ru|6|
-|28|hayheadt@student.21-school.ru|6|
+|27|hayheadt@student.21-school.ru|6|
+|28|marenvar@student.21-school.ru|6|
 |29|mavericl@student.21-school.ru|6|
 |30|lorenuzu@student.21-school.ru|6|
 |31|tysanegr@student.21-school.ru|5|
@@ -42,8 +42,8 @@
 |36|antonare@student.21-school.ru|4|
 |37|kaylenak@student.21-school.ru|4|
 |38|felisafi@student.21-school.ru|4|
-|39|yaniraka@student.21-school.ru|4|
-|40|puckcher@student.21-school.ru|4|
+|39|puckcher@student.21-school.ru|4|
+|40|yaniraka@student.21-school.ru|4|
 |41|estelaka@student.21-school.ru|4|
 |42|tyraandr@student.21-school.ru|4|
 |43|iggymacl@student.21-school.ru|3|
@@ -68,8 +68,8 @@
 |62|provemec@student.21-school.ru|0|
 |63|sonyacar@student.21-school.ru|0|
 |64|galiokam@student.21-school.ru|0|
-|65|halliemo@student.21-school.ru|0|
-|66|treasaba@student.21-school.ru|0|
+|65|treasaba@student.21-school.ru|0|
+|66|halliemo@student.21-school.ru|0|
 |67|illalong@student.21-school.ru|0|
 |68|juggermy@student.21-school.ru|0|
 
