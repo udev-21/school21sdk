@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-20 10:09:14
+### Updated at: 2024-07-20 10:39:16
 
 | № | Login | Points |
 |---|-------|--------|
@@ -23,8 +23,8 @@
 |17|milagrkw@student.21-school.ru|7|
 |18|seanamab@student.21-school.ru|7|
 |19|skeevesp@student.21-school.ru|7|
-|20|hobgoblm@student.21-school.ru|7|
-|21|zaryasam@student.21-school.ru|7|
+|20|zaryasam@student.21-school.ru|7|
+|21|hobgoblm@student.21-school.ru|7|
 |22|kabutops@student.21-school.ru|7|
 |23|donnettp@student.21-school.ru|7|
 |24|ilynpois@student.21-school.ru|7|
@@ -32,8 +32,8 @@
 |26|lorenuzu@student.21-school.ru|6|
 |27|lockemin@student.21-school.ru|6|
 |28|twannama@student.21-school.ru|6|
-|29|hayheadt@student.21-school.ru|6|
-|30|marenvar@student.21-school.ru|6|
+|29|marenvar@student.21-school.ru|6|
+|30|hayheadt@student.21-school.ru|6|
 |31|yingbirg@student.21-school.ru|5|
 |32|wifedoge@student.21-school.ru|5|
 |33|tysanegr@student.21-school.ru|5|
@@ -67,8 +67,8 @@
 |61|tymorgiu@student.21-school.ru|0|
 |62|hickscan@student.21-school.ru|0|
 |63|provemec@student.21-school.ru|0|
-|64|sonyacar@student.21-school.ru|0|
-|65|galiokam@student.21-school.ru|0|
+|64|galiokam@student.21-school.ru|0|
+|65|sonyacar@student.21-school.ru|0|
 |66|treasaba@student.21-school.ru|0|
 |67|halliemo@student.21-school.ru|0|
 |68|illalong@student.21-school.ru|0|
