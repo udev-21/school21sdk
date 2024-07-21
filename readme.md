@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-22 01:09:14
+### Updated at: 2024-07-22 01:39:24
 
 | № | Login | Points |
 |---|-------|--------|
@@ -31,14 +31,14 @@
 |25|mavericl@student.21-school.ru|6|
 |26|lorenuzu@student.21-school.ru|6|
 |27|wifedoge@student.21-school.ru|5|
-|28|casielis@student.21-school.ru|5|
-|29|tysanegr@student.21-school.ru|5|
+|28|tysanegr@student.21-school.ru|5|
+|29|casielis@student.21-school.ru|5|
 |30|turnerko@student.21-school.ru|5|
 |31|barramuc@student.21-school.ru|5|
 |32|donnettp@student.21-school.ru|5|
 |33|christib@student.21-school.ru|5|
-|34|ricassol@student.21-school.ru|5|
-|35|yingbirg@student.21-school.ru|5|
+|34|yingbirg@student.21-school.ru|5|
+|35|ricassol@student.21-school.ru|5|
 |36|snowbiro@student.21-school.ru|5|
 |37|milagrkw@student.21-school.ru|5|
 |38|ericaalp@student.21-school.ru|4|
@@ -59,16 +59,16 @@
 |53|cheesecm@student.21-school.ru|2|
 |54|kaylenak@student.21-school.ru|1|
 |55|daisymal@student.21-school.ru|1|
-|56|daemonpr@student.21-school.ru|0|
-|57|adolphdo@student.21-school.ru|0|
+|56|adolphdo@student.21-school.ru|0|
+|57|daemonpr@student.21-school.ru|0|
 |58|leobalda@student.21-school.ru|0|
-|59|hickscan@student.21-school.ru|0|
-|60|iggymacl@student.21-school.ru|0|
-|61|tymorgiu@student.21-school.ru|0|
+|59|iggymacl@student.21-school.ru|0|
+|60|tymorgiu@student.21-school.ru|0|
+|61|hickscan@student.21-school.ru|0|
 |62|provemec@student.21-school.ru|0|
 |63|ahrimeri@student.21-school.ru|0|
-|64|treasaba@student.21-school.ru|0|
-|65|halliemo@student.21-school.ru|0|
+|64|halliemo@student.21-school.ru|0|
+|65|treasaba@student.21-school.ru|0|
 |66|illalong@student.21-school.ru|0|
 |67|juggermy@student.21-school.ru|0|
 |68|demetrif@student.21-school.ru|0|
