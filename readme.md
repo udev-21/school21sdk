@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-21 08:09:13
+### Updated at: 2024-07-21 08:39:23
 
 | № | Login | Points |
 |---|-------|--------|
@@ -16,8 +16,8 @@
 |10|randolpz@student.21-school.ru|8|
 |11|mummjacq@student.21-school.ru|8|
 |12|sonyacar@student.21-school.ru|8|
-|13|chrystac@student.21-school.ru|8|
-|14|lannybon@student.21-school.ru|8|
+|13|lannybon@student.21-school.ru|8|
+|14|chrystac@student.21-school.ru|8|
 |15|beatricl@student.21-school.ru|8|
 |16|kabutops@student.21-school.ru|7|
 |17|ilynpois@student.21-school.ru|7|
@@ -26,13 +26,13 @@
 |20|skeevesp@student.21-school.ru|7|
 |21|hobgoblm@student.21-school.ru|7|
 |22|zaryasam@student.21-school.ru|7|
-|23|hayheadt@student.21-school.ru|6|
-|24|yaniraka@student.21-school.ru|6|
-|25|marenvar@student.21-school.ru|6|
+|23|yaniraka@student.21-school.ru|6|
+|24|marenvar@student.21-school.ru|6|
+|25|hayheadt@student.21-school.ru|6|
 |26|mavericl@student.21-school.ru|6|
 |27|twannama@student.21-school.ru|6|
-|28|puckcher@student.21-school.ru|5|
-|29|donnettp@student.21-school.ru|5|
+|28|donnettp@student.21-school.ru|5|
+|29|puckcher@student.21-school.ru|5|
 |30|christib@student.21-school.ru|5|
 |31|ricassol@student.21-school.ru|5|
 |32|yingbirg@student.21-school.ru|5|
@@ -41,8 +41,8 @@
 |35|wifedoge@student.21-school.ru|5|
 |36|casielis@student.21-school.ru|5|
 |37|tysanegr@student.21-school.ru|5|
-|38|barramuc@student.21-school.ru|5|
-|39|turnerko@student.21-school.ru|5|
+|38|turnerko@student.21-school.ru|5|
+|39|barramuc@student.21-school.ru|5|
 |40|estelaka@student.21-school.ru|4|
 |41|tyraandr@student.21-school.ru|4|
 |42|ericaalp@student.21-school.ru|4|
@@ -64,9 +64,9 @@
 |58|daemonpr@student.21-school.ru|0|
 |59|adolphdo@student.21-school.ru|0|
 |60|leobalda@student.21-school.ru|0|
-|61|tymorgiu@student.21-school.ru|0|
-|62|hickscan@student.21-school.ru|0|
-|63|iggymacl@student.21-school.ru|0|
+|61|hickscan@student.21-school.ru|0|
+|62|iggymacl@student.21-school.ru|0|
+|63|tymorgiu@student.21-school.ru|0|
 |64|provemec@student.21-school.ru|0|
 |65|ahrimeri@student.21-school.ru|0|
 |66|daisymal@student.21-school.ru|0|
