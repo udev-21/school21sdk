@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-21 17:39:13
+### Updated at: 2024-07-21 18:09:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -31,30 +31,30 @@
 |25|yaniraka@student.21-school.ru|6|
 |26|marenvar@student.21-school.ru|6|
 |27|mavericl@student.21-school.ru|6|
-|28|wifedoge@student.21-school.ru|5|
-|29|casielis@student.21-school.ru|5|
-|30|tysanegr@student.21-school.ru|5|
-|31|turnerko@student.21-school.ru|5|
-|32|barramuc@student.21-school.ru|5|
-|33|donnettp@student.21-school.ru|5|
-|34|christib@student.21-school.ru|5|
-|35|ricassol@student.21-school.ru|5|
-|36|yingbirg@student.21-school.ru|5|
-|37|milagrkw@student.21-school.ru|5|
-|38|lorenuzu@student.21-school.ru|5|
-|39|ericaalp@student.21-school.ru|4|
-|40|fighterf@student.21-school.ru|4|
-|41|antonare@student.21-school.ru|4|
-|42|felisafi@student.21-school.ru|4|
-|43|estelaka@student.21-school.ru|4|
-|44|tyraandr@student.21-school.ru|4|
-|45|unmentia@student.21-school.ru|3|
-|46|lockemin@student.21-school.ru|3|
-|47|yonnrose@student.21-school.ru|3|
-|48|wowbagel@student.21-school.ru|2|
-|49|galiokam@student.21-school.ru|2|
-|50|puckcher@student.21-school.ru|2|
-|51|vincenzg@student.21-school.ru|2|
+|28|casielis@student.21-school.ru|5|
+|29|tysanegr@student.21-school.ru|5|
+|30|turnerko@student.21-school.ru|5|
+|31|barramuc@student.21-school.ru|5|
+|32|donnettp@student.21-school.ru|5|
+|33|christib@student.21-school.ru|5|
+|34|ricassol@student.21-school.ru|5|
+|35|yingbirg@student.21-school.ru|5|
+|36|milagrkw@student.21-school.ru|5|
+|37|lorenuzu@student.21-school.ru|5|
+|38|wifedoge@student.21-school.ru|5|
+|39|fighterf@student.21-school.ru|4|
+|40|antonare@student.21-school.ru|4|
+|41|felisafi@student.21-school.ru|4|
+|42|estelaka@student.21-school.ru|4|
+|43|tyraandr@student.21-school.ru|4|
+|44|ericaalp@student.21-school.ru|4|
+|45|lockemin@student.21-school.ru|3|
+|46|yonnrose@student.21-school.ru|3|
+|47|vincenzg@student.21-school.ru|3|
+|48|unmentia@student.21-school.ru|3|
+|49|wowbagel@student.21-school.ru|2|
+|50|galiokam@student.21-school.ru|2|
+|51|puckcher@student.21-school.ru|2|
 |52|voicerol@student.21-school.ru|2|
 |53|cheesecm@student.21-school.ru|2|
 |54|kaylenak@student.21-school.ru|1|
