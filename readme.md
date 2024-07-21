@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-21 07:09:14
+### Updated at: 2024-07-21 07:39:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -26,11 +26,11 @@
 |20|zaryasam@student.21-school.ru|7|
 |21|kabutops@student.21-school.ru|7|
 |22|ilynpois@student.21-school.ru|7|
-|23|twannama@student.21-school.ru|6|
-|24|yaniraka@student.21-school.ru|6|
-|25|marenvar@student.21-school.ru|6|
-|26|hayheadt@student.21-school.ru|6|
-|27|mavericl@student.21-school.ru|6|
+|23|mavericl@student.21-school.ru|6|
+|24|twannama@student.21-school.ru|6|
+|25|yaniraka@student.21-school.ru|6|
+|26|marenvar@student.21-school.ru|6|
+|27|hayheadt@student.21-school.ru|6|
 |28|milagrkw@student.21-school.ru|5|
 |29|lorenuzu@student.21-school.ru|5|
 |30|wifedoge@student.21-school.ru|5|
@@ -52,25 +52,25 @@
 |46|unmentia@student.21-school.ru|3|
 |47|lockemin@student.21-school.ru|3|
 |48|yonnrose@student.21-school.ru|3|
-|49|cheesecm@student.21-school.ru|2|
-|50|wowbagel@student.21-school.ru|2|
-|51|galiokam@student.21-school.ru|2|
-|52|vincenzg@student.21-school.ru|2|
-|53|voicerol@student.21-school.ru|2|
+|49|voicerol@student.21-school.ru|2|
+|50|cheesecm@student.21-school.ru|2|
+|51|wowbagel@student.21-school.ru|2|
+|52|galiokam@student.21-school.ru|2|
+|53|vincenzg@student.21-school.ru|2|
 |54|kaylenak@student.21-school.ru|1|
-|55|demetrif@student.21-school.ru|0|
-|56|daemonpr@student.21-school.ru|0|
-|57|adolphdo@student.21-school.ru|0|
-|58|leobalda@student.21-school.ru|0|
-|59|hickscan@student.21-school.ru|0|
-|60|iggymacl@student.21-school.ru|0|
-|61|tymorgiu@student.21-school.ru|0|
-|62|provemec@student.21-school.ru|0|
-|63|ahrimeri@student.21-school.ru|0|
-|64|daisymal@student.21-school.ru|0|
-|65|treasaba@student.21-school.ru|0|
-|66|halliemo@student.21-school.ru|0|
-|67|illalong@student.21-school.ru|0|
-|68|juggermy@student.21-school.ru|0|
+|55|juggermy@student.21-school.ru|0|
+|56|demetrif@student.21-school.ru|0|
+|57|daemonpr@student.21-school.ru|0|
+|58|adolphdo@student.21-school.ru|0|
+|59|leobalda@student.21-school.ru|0|
+|60|hickscan@student.21-school.ru|0|
+|61|iggymacl@student.21-school.ru|0|
+|62|tymorgiu@student.21-school.ru|0|
+|63|provemec@student.21-school.ru|0|
+|64|ahrimeri@student.21-school.ru|0|
+|65|daisymal@student.21-school.ru|0|
+|66|treasaba@student.21-school.ru|0|
+|67|halliemo@student.21-school.ru|0|
+|68|illalong@student.21-school.ru|0|
 
 
