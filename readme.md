@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-22 22:39:14
+### Updated at: 2024-07-22 23:09:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -19,22 +19,22 @@
 |13|randolpz@student.21-school.ru|8|
 |14|mummjacq@student.21-school.ru|8|
 |15|seanamab@student.21-school.ru|7|
-|16|hobgoblm@student.21-school.ru|7|
-|17|zaryasam@student.21-school.ru|7|
+|16|zaryasam@student.21-school.ru|7|
+|17|hobgoblm@student.21-school.ru|7|
 |18|kabutops@student.21-school.ru|7|
 |19|ilynpois@student.21-school.ru|7|
 |20|lorenuzu@student.21-school.ru|6|
 |21|twannama@student.21-school.ru|6|
-|22|hayheadt@student.21-school.ru|6|
-|23|marenvar@student.21-school.ru|6|
+|22|marenvar@student.21-school.ru|6|
+|23|hayheadt@student.21-school.ru|6|
 |24|wifedoge@student.21-school.ru|5|
 |25|skeevesp@student.21-school.ru|5|
-|26|casielis@student.21-school.ru|5|
-|27|tysanegr@student.21-school.ru|5|
+|26|tysanegr@student.21-school.ru|5|
+|27|casielis@student.21-school.ru|5|
 |28|turnerko@student.21-school.ru|5|
 |29|barramuc@student.21-school.ru|5|
-|30|felisafi@student.21-school.ru|5|
-|31|beatricl@student.21-school.ru|5|
+|30|beatricl@student.21-school.ru|5|
+|31|felisafi@student.21-school.ru|5|
 |32|donnettp@student.21-school.ru|5|
 |33|christib@student.21-school.ru|5|
 |34|ricassol@student.21-school.ru|5|
@@ -57,14 +57,14 @@
 |51|puckcher@student.21-school.ru|2|
 |52|voicerol@student.21-school.ru|2|
 |53|cheesecm@student.21-school.ru|2|
-|54|kaylenak@student.21-school.ru|1|
-|55|daisymal@student.21-school.ru|1|
-|56|daemonpr@student.21-school.ru|0|
+|54|hickscan@student.21-school.ru|1|
+|55|kaylenak@student.21-school.ru|1|
+|56|daisymal@student.21-school.ru|1|
 |57|adolphdo@student.21-school.ru|0|
-|58|leobalda@student.21-school.ru|0|
-|59|tymorgiu@student.21-school.ru|0|
-|60|hickscan@student.21-school.ru|0|
-|61|iggymacl@student.21-school.ru|0|
+|58|daemonpr@student.21-school.ru|0|
+|59|leobalda@student.21-school.ru|0|
+|60|iggymacl@student.21-school.ru|0|
+|61|tymorgiu@student.21-school.ru|0|
 |62|provemec@student.21-school.ru|0|
 |63|ahrimeri@student.21-school.ru|0|
 |64|treasaba@student.21-school.ru|0|
