@@ -1,14 +1,14 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-22 05:09:13
+### Updated at: 2024-07-22 05:39:14
 
 | № | Login | Points |
 |---|-------|--------|
 |1|trinitym@student.21-school.ru|14|
 |2|kokoschl@student.21-school.ru|11|
 |3|lilliank@student.21-school.ru|11|
-|4|pepperal@student.21-school.ru|10|
-|5|ponosheb@student.21-school.ru|10|
+|4|ponosheb@student.21-school.ru|10|
+|5|pepperal@student.21-school.ru|10|
 |6|renaykur@student.21-school.ru|9|
 |7|kaseybea@student.21-school.ru|9|
 |8|toffeebl@student.21-school.ru|9|
@@ -48,15 +48,15 @@
 |42|fighterf@student.21-school.ru|4|
 |43|antonare@student.21-school.ru|4|
 |44|galiokam@student.21-school.ru|4|
-|45|snowbiro@student.21-school.ru|3|
-|46|unmentia@student.21-school.ru|3|
-|47|yonnrose@student.21-school.ru|3|
-|48|yaniraka@student.21-school.ru|3|
-|49|vincenzg@student.21-school.ru|3|
-|50|cheesecm@student.21-school.ru|2|
-|51|wowbagel@student.21-school.ru|2|
-|52|puckcher@student.21-school.ru|2|
-|53|voicerol@student.21-school.ru|2|
+|45|unmentia@student.21-school.ru|3|
+|46|yonnrose@student.21-school.ru|3|
+|47|yaniraka@student.21-school.ru|3|
+|48|vincenzg@student.21-school.ru|3|
+|49|snowbiro@student.21-school.ru|3|
+|50|wowbagel@student.21-school.ru|2|
+|51|puckcher@student.21-school.ru|2|
+|52|voicerol@student.21-school.ru|2|
+|53|cheesecm@student.21-school.ru|2|
 |54|kaylenak@student.21-school.ru|1|
 |55|daisymal@student.21-school.ru|1|
 |56|demetrif@student.21-school.ru|0|
@@ -68,7 +68,7 @@
 |62|hickscan@student.21-school.ru|0|
 |63|provemec@student.21-school.ru|0|
 |64|ahrimeri@student.21-school.ru|0|
-|65|halliemo@student.21-school.ru|0|
-|66|treasaba@student.21-school.ru|0|
+|65|treasaba@student.21-school.ru|0|
+|66|halliemo@student.21-school.ru|0|
 |67|illalong@student.21-school.ru|0|
 |68|juggermy@student.21-school.ru|0|
