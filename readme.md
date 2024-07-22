@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-22 14:09:29
+### Updated at: 2024-07-22 14:39:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -45,11 +45,11 @@
 |39|tyraandr@student.21-school.ru|4|
 |40|ericaalp@student.21-school.ru|4|
 |41|lockemin@student.21-school.ru|4|
-|42|fighterf@student.21-school.ru|4|
-|43|antonare@student.21-school.ru|4|
-|44|galiokam@student.21-school.ru|4|
-|45|unmentia@student.21-school.ru|3|
-|46|yonnrose@student.21-school.ru|3|
+|42|yonnrose@student.21-school.ru|4|
+|43|fighterf@student.21-school.ru|4|
+|44|antonare@student.21-school.ru|4|
+|45|galiokam@student.21-school.ru|4|
+|46|unmentia@student.21-school.ru|3|
 |47|yaniraka@student.21-school.ru|3|
 |48|vincenzg@student.21-school.ru|3|
 |49|snowbiro@student.21-school.ru|3|
