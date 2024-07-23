@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-23 11:39:15
+### Updated at: 2024-07-23 12:09:17
 
 | № | Login | Points |
 |---|-------|--------|
@@ -11,13 +11,13 @@
 |5|kaseybea@student.21-school.ru|9|
 |6|toffeebl@student.21-school.ru|9|
 |7|hypnosha@student.21-school.ru|9|
-|8|mummjacq@student.21-school.ru|8|
-|9|lilliank@student.21-school.ru|8|
-|10|sonyacar@student.21-school.ru|8|
-|11|lannybon@student.21-school.ru|8|
-|12|chrystac@student.21-school.ru|8|
-|13|kabutops@student.21-school.ru|8|
-|14|randolpz@student.21-school.ru|8|
+|8|randolpz@student.21-school.ru|8|
+|9|mummjacq@student.21-school.ru|8|
+|10|lilliank@student.21-school.ru|8|
+|11|sonyacar@student.21-school.ru|8|
+|12|lannybon@student.21-school.ru|8|
+|13|chrystac@student.21-school.ru|8|
+|14|kabutops@student.21-school.ru|8|
 |15|ponosheb@student.21-school.ru|7|
 |16|seanamab@student.21-school.ru|7|
 |17|fighterf@student.21-school.ru|7|
@@ -27,24 +27,24 @@
 |21|twannama@student.21-school.ru|6|
 |22|marenvar@student.21-school.ru|6|
 |23|hayheadt@student.21-school.ru|6|
-|24|milagrkw@student.21-school.ru|5|
-|25|tyraandr@student.21-school.ru|5|
-|26|wifedoge@student.21-school.ru|5|
-|27|lockemin@student.21-school.ru|5|
-|28|skeevesp@student.21-school.ru|5|
-|29|casielis@student.21-school.ru|5|
-|30|tysanegr@student.21-school.ru|5|
-|31|turnerko@student.21-school.ru|5|
-|32|barramuc@student.21-school.ru|5|
-|33|beatricl@student.21-school.ru|5|
-|34|felisafi@student.21-school.ru|5|
-|35|donnettp@student.21-school.ru|5|
-|36|christib@student.21-school.ru|5|
-|37|ricassol@student.21-school.ru|5|
-|38|yingbirg@student.21-school.ru|5|
+|24|christib@student.21-school.ru|6|
+|25|yingbirg@student.21-school.ru|5|
+|26|ricassol@student.21-school.ru|5|
+|27|milagrkw@student.21-school.ru|5|
+|28|tyraandr@student.21-school.ru|5|
+|29|wifedoge@student.21-school.ru|5|
+|30|lockemin@student.21-school.ru|5|
+|31|skeevesp@student.21-school.ru|5|
+|32|tysanegr@student.21-school.ru|5|
+|33|casielis@student.21-school.ru|5|
+|34|turnerko@student.21-school.ru|5|
+|35|barramuc@student.21-school.ru|5|
+|36|beatricl@student.21-school.ru|5|
+|37|felisafi@student.21-school.ru|5|
+|38|donnettp@student.21-school.ru|5|
 |39|estelaka@student.21-school.ru|4|
-|40|unmentia@student.21-school.ru|4|
-|41|ericaalp@student.21-school.ru|4|
+|40|ericaalp@student.21-school.ru|4|
+|41|unmentia@student.21-school.ru|4|
 |42|yonnrose@student.21-school.ru|4|
 |43|galiokam@student.21-school.ru|4|
 |44|ilynpois@student.21-school.ru|4|
@@ -58,14 +58,14 @@
 |52|iggymacl@student.21-school.ru|2|
 |53|puckcher@student.21-school.ru|2|
 |54|demetrif@student.21-school.ru|1|
-|55|hickscan@student.21-school.ru|1|
-|56|antonare@student.21-school.ru|1|
+|55|antonare@student.21-school.ru|1|
+|56|hickscan@student.21-school.ru|1|
 |57|kaylenak@student.21-school.ru|1|
 |58|daisymal@student.21-school.ru|1|
 |59|halliemo@student.21-school.ru|1|
 |60|juggermy@student.21-school.ru|0|
-|61|daemonpr@student.21-school.ru|0|
-|62|adolphdo@student.21-school.ru|0|
+|61|adolphdo@student.21-school.ru|0|
+|62|daemonpr@student.21-school.ru|0|
 |63|leobalda@student.21-school.ru|0|
 |64|tymorgiu@student.21-school.ru|0|
 |65|provemec@student.21-school.ru|0|
