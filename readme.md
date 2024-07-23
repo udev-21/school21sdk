@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-23 11:09:16
+### Updated at: 2024-07-23 11:39:15
 
 | № | Login | Points |
 |---|-------|--------|
@@ -14,8 +14,8 @@
 |8|mummjacq@student.21-school.ru|8|
 |9|lilliank@student.21-school.ru|8|
 |10|sonyacar@student.21-school.ru|8|
-|11|chrystac@student.21-school.ru|8|
-|12|lannybon@student.21-school.ru|8|
+|11|lannybon@student.21-school.ru|8|
+|12|chrystac@student.21-school.ru|8|
 |13|kabutops@student.21-school.ru|8|
 |14|randolpz@student.21-school.ru|8|
 |15|ponosheb@student.21-school.ru|7|
@@ -25,8 +25,8 @@
 |19|zaryasam@student.21-school.ru|7|
 |20|lorenuzu@student.21-school.ru|6|
 |21|twannama@student.21-school.ru|6|
-|22|hayheadt@student.21-school.ru|6|
-|23|marenvar@student.21-school.ru|6|
+|22|marenvar@student.21-school.ru|6|
+|23|hayheadt@student.21-school.ru|6|
 |24|milagrkw@student.21-school.ru|5|
 |25|tyraandr@student.21-school.ru|5|
 |26|wifedoge@student.21-school.ru|5|
@@ -34,8 +34,8 @@
 |28|skeevesp@student.21-school.ru|5|
 |29|casielis@student.21-school.ru|5|
 |30|tysanegr@student.21-school.ru|5|
-|31|barramuc@student.21-school.ru|5|
-|32|turnerko@student.21-school.ru|5|
+|31|turnerko@student.21-school.ru|5|
+|32|barramuc@student.21-school.ru|5|
 |33|beatricl@student.21-school.ru|5|
 |34|felisafi@student.21-school.ru|5|
 |35|donnettp@student.21-school.ru|5|
@@ -43,13 +43,13 @@
 |37|ricassol@student.21-school.ru|5|
 |38|yingbirg@student.21-school.ru|5|
 |39|estelaka@student.21-school.ru|4|
-|40|ericaalp@student.21-school.ru|4|
-|41|yonnrose@student.21-school.ru|4|
-|42|galiokam@student.21-school.ru|4|
-|43|ilynpois@student.21-school.ru|4|
-|44|mavericl@student.21-school.ru|3|
-|45|snowbiro@student.21-school.ru|3|
-|46|unmentia@student.21-school.ru|3|
+|40|unmentia@student.21-school.ru|4|
+|41|ericaalp@student.21-school.ru|4|
+|42|yonnrose@student.21-school.ru|4|
+|43|galiokam@student.21-school.ru|4|
+|44|ilynpois@student.21-school.ru|4|
+|45|mavericl@student.21-school.ru|3|
+|46|snowbiro@student.21-school.ru|3|
 |47|yaniraka@student.21-school.ru|3|
 |48|vincenzg@student.21-school.ru|3|
 |49|voicerol@student.21-school.ru|2|
