@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-24 05:09:14
+### Updated at: 2024-07-24 05:39:13
 
 | № | Login | Points |
 |---|-------|--------|
@@ -49,9 +49,9 @@
 |43|hobgoblm@student.21-school.ru|4|
 |44|ilynpois@student.21-school.ru|4|
 |45|mavericl@student.21-school.ru|4|
-|46|yaniraka@student.21-school.ru|3|
-|47|vincenzg@student.21-school.ru|3|
-|48|snowbiro@student.21-school.ru|3|
+|46|snowbiro@student.21-school.ru|3|
+|47|yaniraka@student.21-school.ru|3|
+|48|vincenzg@student.21-school.ru|3|
 |49|demetrif@student.21-school.ru|2|
 |50|wowbagel@student.21-school.ru|2|
 |51|iggymacl@student.21-school.ru|2|
@@ -62,14 +62,14 @@
 |56|antonare@student.21-school.ru|1|
 |57|kaylenak@student.21-school.ru|1|
 |58|daisymal@student.21-school.ru|1|
-|59|daemonpr@student.21-school.ru|0|
-|60|adolphdo@student.21-school.ru|0|
-|61|leobalda@student.21-school.ru|0|
-|62|tymorgiu@student.21-school.ru|0|
-|63|provemec@student.21-school.ru|0|
-|64|ahrimeri@student.21-school.ru|0|
-|65|treasaba@student.21-school.ru|0|
-|66|illalong@student.21-school.ru|0|
-|67|juggermy@student.21-school.ru|0|
-|68|cheesecm@student.21-school.ru|0|
+|59|cheesecm@student.21-school.ru|0|
+|60|daemonpr@student.21-school.ru|0|
+|61|adolphdo@student.21-school.ru|0|
+|62|leobalda@student.21-school.ru|0|
+|63|tymorgiu@student.21-school.ru|0|
+|64|provemec@student.21-school.ru|0|
+|65|ahrimeri@student.21-school.ru|0|
+|66|treasaba@student.21-school.ru|0|
+|67|illalong@student.21-school.ru|0|
+|68|juggermy@student.21-school.ru|0|
 |
