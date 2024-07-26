@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-27 02:39:14
+### Updated at: 2024-07-27 03:09:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -37,16 +37,16 @@
 |31|casielis@student.21-school.ru|5|
 |32|sonyacar@student.21-school.ru|5|
 |33|tysanegr@student.21-school.ru|5|
-|34|turnerko@student.21-school.ru|5|
-|35|barramuc@student.21-school.ru|5|
+|34|barramuc@student.21-school.ru|5|
+|35|turnerko@student.21-school.ru|5|
 |36|beatricl@student.21-school.ru|5|
 |37|ilynpois@student.21-school.ru|4|
 |38|snowbiro@student.21-school.ru|4|
 |39|estelaka@student.21-school.ru|4|
 |40|ericaalp@student.21-school.ru|4|
 |41|antonare@student.21-school.ru|4|
-|42|kaylenak@student.21-school.ru|4|
-|43|galiokam@student.21-school.ru|4|
+|42|galiokam@student.21-school.ru|4|
+|43|kaylenak@student.21-school.ru|4|
 |44|hobgoblm@student.21-school.ru|4|
 |45|marenvar@student.21-school.ru|3|
 |46|hypnosha@student.21-school.ru|3|
