@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-27 01:09:14
+### Updated at: 2024-07-27 01:39:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -27,27 +27,27 @@
 |21|lorenuzu@student.21-school.ru|6|
 |22|unmentia@student.21-school.ru|6|
 |23|lockemin@student.21-school.ru|6|
-|24|sonyacar@student.21-school.ru|5|
-|25|tysanegr@student.21-school.ru|5|
-|26|casielis@student.21-school.ru|5|
-|27|turnerko@student.21-school.ru|5|
-|28|barramuc@student.21-school.ru|5|
-|29|beatricl@student.21-school.ru|5|
-|30|donnettp@student.21-school.ru|5|
-|31|yingbirg@student.21-school.ru|5|
-|32|ricassol@student.21-school.ru|5|
-|33|mummjacq@student.21-school.ru|5|
-|34|wifedoge@student.21-school.ru|5|
-|35|yonnrose@student.21-school.ru|5|
-|36|skeevesp@student.21-school.ru|5|
-|37|galiokam@student.21-school.ru|4|
-|38|kaylenak@student.21-school.ru|4|
-|39|hobgoblm@student.21-school.ru|4|
-|40|ilynpois@student.21-school.ru|4|
-|41|snowbiro@student.21-school.ru|4|
-|42|estelaka@student.21-school.ru|4|
-|43|ericaalp@student.21-school.ru|4|
-|44|antonare@student.21-school.ru|4|
+|24|turnerko@student.21-school.ru|5|
+|25|barramuc@student.21-school.ru|5|
+|26|beatricl@student.21-school.ru|5|
+|27|donnettp@student.21-school.ru|5|
+|28|yingbirg@student.21-school.ru|5|
+|29|ricassol@student.21-school.ru|5|
+|30|mummjacq@student.21-school.ru|5|
+|31|wifedoge@student.21-school.ru|5|
+|32|yonnrose@student.21-school.ru|5|
+|33|skeevesp@student.21-school.ru|5|
+|34|sonyacar@student.21-school.ru|5|
+|35|tysanegr@student.21-school.ru|5|
+|36|casielis@student.21-school.ru|5|
+|37|hobgoblm@student.21-school.ru|4|
+|38|ilynpois@student.21-school.ru|4|
+|39|snowbiro@student.21-school.ru|4|
+|40|estelaka@student.21-school.ru|4|
+|41|ericaalp@student.21-school.ru|4|
+|42|antonare@student.21-school.ru|4|
+|43|galiokam@student.21-school.ru|4|
+|44|kaylenak@student.21-school.ru|4|
 |45|daisymal@student.21-school.ru|3|
 |46|halliemo@student.21-school.ru|3|
 |47|marenvar@student.21-school.ru|3|
