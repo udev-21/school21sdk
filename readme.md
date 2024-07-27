@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-27 20:39:15
+### Updated at: 2024-07-27 21:09:15
 
 | № | Login | Points |
 |---|-------|--------|
@@ -23,26 +23,26 @@
 |17|unmentia@student.21-school.ru|7|
 |18|skeevesp@student.21-school.ru|6|
 |19|lannybon@student.21-school.ru|6|
-|20|halliemo@student.21-school.ru|6|
-|21|beatricl@student.21-school.ru|6|
+|20|beatricl@student.21-school.ru|6|
+|21|halliemo@student.21-school.ru|6|
 |22|renaykur@student.21-school.ru|6|
 |23|lorenuzu@student.21-school.ru|6|
 |24|lockemin@student.21-school.ru|6|
 |25|yonnrose@student.21-school.ru|5|
-|26|casielis@student.21-school.ru|5|
-|27|sonyacar@student.21-school.ru|5|
-|28|tysanegr@student.21-school.ru|5|
+|26|sonyacar@student.21-school.ru|5|
+|27|tysanegr@student.21-school.ru|5|
+|28|casielis@student.21-school.ru|5|
 |29|turnerko@student.21-school.ru|5|
 |30|barramuc@student.21-school.ru|5|
 |31|felisafi@student.21-school.ru|5|
 |32|donnettp@student.21-school.ru|5|
-|33|ricassol@student.21-school.ru|5|
-|34|yingbirg@student.21-school.ru|5|
+|33|yingbirg@student.21-school.ru|5|
+|34|ricassol@student.21-school.ru|5|
 |35|mummjacq@student.21-school.ru|5|
 |36|wifedoge@student.21-school.ru|5|
 |37|antonare@student.21-school.ru|4|
-|38|kaylenak@student.21-school.ru|4|
-|39|galiokam@student.21-school.ru|4|
+|38|galiokam@student.21-school.ru|4|
+|39|kaylenak@student.21-school.ru|4|
 |40|hobgoblm@student.21-school.ru|4|
 |41|ilynpois@student.21-school.ru|4|
 |42|mavericl@student.21-school.ru|4|
@@ -65,11 +65,11 @@
 |59|tymorgiu@student.21-school.ru|0|
 |60|provemec@student.21-school.ru|0|
 |61|treasaba@student.21-school.ru|0|
-|62|kabutops@student.21-school.ru|0|
-|63|yaniraka@student.21-school.ru|0|
-|64|illalong@student.21-school.ru|0|
+|62|illalong@student.21-school.ru|0|
+|63|kabutops@student.21-school.ru|0|
+|64|yaniraka@student.21-school.ru|0|
 |65|vincenzg@student.21-school.ru|0|
 |66|juggermy@student.21-school.ru|0|
-|67|daemonpr@student.21-school.ru|0|
-|68|adolphdo@student.21-school.ru|0|
+|67|adolphdo@student.21-school.ru|0|
+|68|daemonpr@student.21-school.ru|0|
 |
