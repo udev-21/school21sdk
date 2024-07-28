@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-28 23:09:15
+### Updated at: 2024-07-28 23:39:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -27,29 +27,29 @@
 |21|renaykur@student.21-school.ru|6|
 |22|lorenuzu@student.21-school.ru|6|
 |23|lockemin@student.21-school.ru|6|
-|24|turnerko@student.21-school.ru|5|
-|25|barramuc@student.21-school.ru|5|
-|26|donnettp@student.21-school.ru|5|
-|27|ricassol@student.21-school.ru|5|
-|28|yingbirg@student.21-school.ru|5|
-|29|mummjacq@student.21-school.ru|5|
-|30|wifedoge@student.21-school.ru|5|
-|31|yonnrose@student.21-school.ru|5|
-|32|antonare@student.21-school.ru|5|
-|33|casielis@student.21-school.ru|5|
-|34|sonyacar@student.21-school.ru|5|
-|35|tysanegr@student.21-school.ru|5|
-|36|galiokam@student.21-school.ru|5|
-|37|hobgoblm@student.21-school.ru|4|
-|38|zaryasam@student.21-school.ru|4|
-|39|puckcher@student.21-school.ru|4|
-|40|ilynpois@student.21-school.ru|4|
-|41|snowbiro@student.21-school.ru|4|
-|42|estelaka@student.21-school.ru|4|
-|43|milagrkw@student.21-school.ru|4|
-|44|tyraandr@student.21-school.ru|4|
-|45|ericaalp@student.21-school.ru|4|
-|46|kaylenak@student.21-school.ru|4|
+|24|casielis@student.21-school.ru|5|
+|25|sonyacar@student.21-school.ru|5|
+|26|tysanegr@student.21-school.ru|5|
+|27|galiokam@student.21-school.ru|5|
+|28|turnerko@student.21-school.ru|5|
+|29|barramuc@student.21-school.ru|5|
+|30|donnettp@student.21-school.ru|5|
+|31|ricassol@student.21-school.ru|5|
+|32|yingbirg@student.21-school.ru|5|
+|33|mummjacq@student.21-school.ru|5|
+|34|wifedoge@student.21-school.ru|5|
+|35|yonnrose@student.21-school.ru|5|
+|36|antonare@student.21-school.ru|5|
+|37|kaylenak@student.21-school.ru|4|
+|38|hobgoblm@student.21-school.ru|4|
+|39|zaryasam@student.21-school.ru|4|
+|40|puckcher@student.21-school.ru|4|
+|41|ilynpois@student.21-school.ru|4|
+|42|snowbiro@student.21-school.ru|4|
+|43|estelaka@student.21-school.ru|4|
+|44|milagrkw@student.21-school.ru|4|
+|45|tyraandr@student.21-school.ru|4|
+|46|ericaalp@student.21-school.ru|4|
 |47|ahrimeri@student.21-school.ru|3|
 |48|marenvar@student.21-school.ru|3|
 |49|hypnosha@student.21-school.ru|3|
