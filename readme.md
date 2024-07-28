@@ -1,6 +1,6 @@
 # Leaderboard by peer points
 
-### Updated at: 2024-07-28 06:39:15
+### Updated at: 2024-07-28 07:09:14
 
 | № | Login | Points |
 |---|-------|--------|
@@ -9,13 +9,13 @@
 |3|pepperal@student.21-school.ru|10|
 |4|kaseybea@student.21-school.ru|9|
 |5|toffeebl@student.21-school.ru|9|
-|6|randolpz@student.21-school.ru|8|
-|7|ponosheb@student.21-school.ru|8|
-|8|unmentia@student.21-school.ru|8|
-|9|seanamab@student.21-school.ru|8|
-|10|lilliank@student.21-school.ru|8|
-|11|chrystac@student.21-school.ru|8|
-|12|hayheadt@student.21-school.ru|8|
+|6|ponosheb@student.21-school.ru|8|
+|7|unmentia@student.21-school.ru|8|
+|8|seanamab@student.21-school.ru|8|
+|9|lilliank@student.21-school.ru|8|
+|10|chrystac@student.21-school.ru|8|
+|11|hayheadt@student.21-school.ru|8|
+|12|randolpz@student.21-school.ru|8|
 |13|milagrkw@student.21-school.ru|7|
 |14|fighterf@student.21-school.ru|7|
 |15|twannama@student.21-school.ru|7|
@@ -27,18 +27,18 @@
 |21|lannybon@student.21-school.ru|6|
 |22|beatricl@student.21-school.ru|6|
 |23|halliemo@student.21-school.ru|6|
-|24|ricassol@student.21-school.ru|5|
-|25|yingbirg@student.21-school.ru|5|
-|26|mummjacq@student.21-school.ru|5|
-|27|wifedoge@student.21-school.ru|5|
-|28|yonnrose@student.21-school.ru|5|
-|29|tysanegr@student.21-school.ru|5|
-|30|casielis@student.21-school.ru|5|
-|31|sonyacar@student.21-school.ru|5|
-|32|turnerko@student.21-school.ru|5|
-|33|barramuc@student.21-school.ru|5|
-|34|felisafi@student.21-school.ru|5|
-|35|donnettp@student.21-school.ru|5|
+|24|mummjacq@student.21-school.ru|5|
+|25|wifedoge@student.21-school.ru|5|
+|26|yonnrose@student.21-school.ru|5|
+|27|tysanegr@student.21-school.ru|5|
+|28|casielis@student.21-school.ru|5|
+|29|sonyacar@student.21-school.ru|5|
+|30|turnerko@student.21-school.ru|5|
+|31|barramuc@student.21-school.ru|5|
+|32|felisafi@student.21-school.ru|5|
+|33|donnettp@student.21-school.ru|5|
+|34|ricassol@student.21-school.ru|5|
+|35|yingbirg@student.21-school.ru|5|
 |36|mavericl@student.21-school.ru|4|
 |37|voicerol@student.21-school.ru|4|
 |38|snowbiro@student.21-school.ru|4|
